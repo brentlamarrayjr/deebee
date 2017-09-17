@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 	"time"
-	"../../../deebee"
+	"github.com/brentlrayjr/deebee"
 
 	"github.com/stretchr/testify/require"
 )
